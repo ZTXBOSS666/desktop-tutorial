@@ -1,11 +1,7 @@
 {
   "config": {
     "server": [
-      "https://sswpdd.xyz",
-      "https://node2.sswpdd.xyz",
-      "https://node3.sswpdd.xyz",
-      "https://node4.sswpdd.xyz",
-      "https://node5.sswpdd.xyz"
+      "http://43.248.118.77:2024/"
     ],
     "bpush": "https://gitee.com/mrl54989/sswp/raw/master/icon/push.png",
     "set": "https://gitee.com/mrl54989/sswp/raw/master/icon/set.png",
