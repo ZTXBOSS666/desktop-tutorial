@@ -1,0 +1,21 @@
+{
+  "config": {
+    "server": [
+      "https://sswpdd.xyz",
+      "https://node2.sswpdd.xyz",
+      "https://node3.sswpdd.xyz",
+      "https://node4.sswpdd.xyz",
+      "https://node5.sswpdd.xyz"
+    ],
+    "bpush": "https://gitee.com/mrl54989/sswp/raw/master/icon/push.png",
+    "set": "https://gitee.com/mrl54989/sswp/raw/master/icon/set.png",
+    "parse": "https://gitee.com/mrl54989/sswp/raw/master/icon/parse.png",
+    "copy": "https://gitee.com/mrl54989/sswp/raw/master/icon/copy.png"
+  },
+  "tabs": [
+    {
+      "label": "作者推荐:超低价百度网盘svip出租，稳定好用！！！",
+      "url": "http://8.hezuba.pro"
+    }
+  ]
+}
