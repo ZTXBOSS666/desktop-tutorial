@@ -3,10 +3,10 @@
     "server": [
       "http://43.248.118.77:2024/"
     ],
-    "bpush": "https://gitee.com/mrl54989/sswp/raw/master/icon/push.png",
-    "set": "https://gitee.com/mrl54989/sswp/raw/master/icon/set.png",
-    "parse": "https://gitee.com/mrl54989/sswp/raw/master/icon/parse.png",
-    "copy": "https://gitee.com/mrl54989/sswp/raw/master/icon/copy.png"
+    "bpush": "https://github.com/ZTXBOSS666/desktop-tutorial/blob/main/push.png",
+    "set": "https://github.com/ZTXBOSS666/desktop-tutorial/blob/main/set.png",
+    "parse": "https://github.com/ZTXBOSS666/desktop-tutorial/blob/main/parse.png",
+    "copy": "https://github.com/ZTXBOSS666/desktop-tutorial/blob/main/copy.png"
   },
   "tabs": [
     {
